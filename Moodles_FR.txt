@@ -1,4 +1,4 @@
 Moodles_FR {
-    Moodles_OutOfBreath_Bad_lvl1 = "Essoufflé",
-    Moodles_OutOfBreath_Bad_desc_lvl1 = "Vous êtes essouflé. Ralentissez ou vous finirez hors d'haleine.",
+    Moodles_OutOfBreath_Bad_lvl1 = "Hors d'haleine",
+    Moodles_OutOfBreath_Bad_desc_lvl1 = "Vous êtes hors d'haleine. Ralentissez ou vous finirez essouflé.",
 }
