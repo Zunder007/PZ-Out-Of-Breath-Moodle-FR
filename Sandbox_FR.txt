@@ -1,0 +1,5 @@
+Sandbox_FR = {
+    Sandbox_OutOfBreathMoodle = "Humeur : Essouflé",
+    Sandbox_OutOfBreathMoodle_OutOfBreathAt = "Humeur visible à la valeur",
+    Sandbox_OutOfBreathMoodle_OutOfBreathAt_tooltip = "À 0.75, l'humeur du jeu d'origine 'Essouflement Modéré' apparaît. Définissez cette valeur entre 0,75 et 1,0 où 1,0 est l'état le plus reposé dans lequel le joueur puisse être."
+}
